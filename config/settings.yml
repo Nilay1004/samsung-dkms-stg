@@ -1,0 +1,8 @@
+samsung_dkms:
+  samsung_dkms_plugin_enabled:
+    default: true
+
+  service_url: 
+    default: "http://dkmsstg.galaxy.store"
+    type: string
+  
